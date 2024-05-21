@@ -5,6 +5,6 @@ Statistically significant cytokine-cytokine associations generated from transcri
 
 The networks can be [interactively accessed under the following NDEx link.](https://www.ndexbio.org/viewer/networks/5503d3ad-1763-11ef-9621-005056ae23aa)
 
-The networks can be accessed by:
+The networks can be further accessed by:
 - opening cytokine_network_cytosig.cys using Cytoscape
 - parsing cytokine_network_cytosig.tsv programmatically using appropriate libraries and programming languages (igraph, NetworkX etc.)
